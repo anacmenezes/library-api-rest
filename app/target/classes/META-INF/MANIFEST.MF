@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lara Coelho
+Build-Jdk: 17.0.3
+Implementation-Title: docker-from-zero-to-mastery
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.erudio
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/docker-from-zero-to-mastery
+Created-By: Maven Integration for Eclipse
+
